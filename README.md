@@ -1,7 +1,7 @@
 ### 你好，我是[Koppel](https://zhoukunpeng.site)! 👋
 
 你好, 我是Koppel，一个来自🇨🇳的前端开发者，同时也是一名皮匠。
-- 📚 我正在读《刀锋》。
+- 📚 我正在读《娱乐至死》。
 - 🌱 我现在正在学习一切我所不知的东西。
 - 💬 向我提问 [here](https://github.com/Koppel-Zhou/Koppel-Zhou/issues)
 
