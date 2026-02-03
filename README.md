@@ -14,8 +14,3 @@
 - 🌱 我现在正在学习一切我所不知的东西。
 - 💬 向我提问 [here](https://github.com/Koppel-Zhou/Koppel-Zhou/issues)
 
-#### 📊 GitHub Stats
-|<img align="top" src="https://github-readme-stats.vercel.app/api?username=Koppel-Zhou&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="Koppel's github stats" />|<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koppel-Zhou&layout=compact&theme=graywhite&hide_border=true" />|
-|-|-|
-  
-  
